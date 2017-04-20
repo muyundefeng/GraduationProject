@@ -1,0 +1,984 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta name="generator"
+    content="HTML Tidy for Java (vers. 2009-12-01), see jtidy.sourceforge.net" />
+    <meta charset="utf-8" />
+    <meta name="viewport"
+    content="width=device-width, initial-scale=1" />
+    <title>
+    &aring;&reg;&#158;&ccedil;&#142;&deg;html&egrave;&frac12;&not;Xml
+    - &ccedil;&yen;&#158;&aring;&#133;&laquo; -
+    &aring;&#141;&#154;&aring;&reg;&cent;&aring;&#155;&shy;</title>
+    <link type="text/css" rel="stylesheet"
+    href="/bundles/blog-common.css?v=XrHjCqi-oUg9M4EcevxEUXvgm_dLNu97ZVKqK6ra-aE1" />
+    <link id="MainCss" type="text/css" rel="stylesheet"
+    href="/skins/InsideDotNet/bundle-InsideDotNet.css?v=hm5Ncnf1UmSaS2roxKOjrIG9bKc-5gPzmHFjhD4ZWn01" />
+    <link id="mobile-style"
+    media="only screen and (max-width: 768px)" type="text/css"
+    rel="stylesheet"
+    href="/skins/InsideDotNet/bundle-InsideDotNet-mobile.css?v=DRipxhxolKybd8XSb66Ua_qwFS02EoAKXmtCkV5J0Rs1" />
+    <link title="RSS" type="application/rss+xml" rel="alternate"
+    href="http://www.cnblogs.com/shenba/rss" />
+    <link title="RSD" type="application/rsd+xml" rel="EditURI"
+    href="http://www.cnblogs.com/shenba/rsd.xml" />
+    <link type="application/wlwmanifest+xml" rel="wlwmanifest"
+    href="http://www.cnblogs.com/shenba/wlwmanifest.xml" />
+<script src="//common.cnblogs.com/script/jquery.js"
+type="text/javascript">
+    </script>
+<script type="text/javascript">
+var currentBlogApp = 'shenba', cb_enable_mathjax=false;var
+isLogined=false;
+    </script>
+<script
+src="/bundles/blog-common.js?v=hH1lCMV8WaIu271Nx7jPuv36TENW9-RsSxziLxUpjtc1"
+ type="text/javascript">
+    </script>
+  </head>
+  <body>
+  <a id="top" name="top"></a> 
+<!--done-->
+  <div id="home">
+    <div id="header">
+      <div id="blogTitle">
+      <div style="display:none">
+        <img src="/Skins/insideDotNet/images/top.gif"
+        alt="&egrave;&deg;&uml;&auml;&raquo;&yen;&aelig;&shy;&curren;&aelig;&uml;&iexcl;&aelig;&#157;&iquest;&ccedil;&yen;&#157;&egrave;&acute;&ordm;&atilde;&#128;&#144;&aring;&#141;&#154;&aring;&reg;&cent;&aring;&#155;&shy;&aring;&frac14;&#128;&aring;&#143;&#145;&egrave;&#128;&#133;&aring;&frac34;&#129;&eacute;&#128;&#148;&atilde;&#128;&#145;&ccedil;&sup3;&raquo;&aring;&#136;&#151;&aring;&#155;&frac34;&auml;&sup1;&brvbar;&atilde;&#128;&#138;&auml;&frac12;&nbsp;&aring;&iquest;&#133;&eacute;&iexcl;&raquo;&ccedil;&#159;&yen;&eacute;&#129;&#147;&ccedil;&#154;&#132;.net&atilde;&#128;&#139;&aring;&#135;&ordm;&ccedil;&#137;&#136;&aring;&#143;&#145;&egrave;&iexcl;&#140;" />
+      </div>
+      <a id="lnkBlogLogo" href="http://www.cnblogs.com/shenba/">
+        <img id="blogLogo" src="/Skins/custom/images/logo.gif"
+        alt="&egrave;&iquest;&#148;&aring;&#155;&#158;&auml;&cedil;&raquo;&eacute;&iexcl;&micro;" />
+      </a> 
+<!--done-->
+      <h1>
+        <a id="Header1_HeaderTitle" class="headermaintitle"
+        href="http://www.cnblogs.com/shenba/">shenba</a>
+      </h1>
+      <h2>
+      &eacute;&#151;&raquo;&eacute;&#129;&#147;&aelig;&#156;&#137;&aring;&#133;&#136;&aring;&#144;&#142;&iuml;&frac14;&#140;&aelig;&#156;&macr;&auml;&cedil;&#154;&aelig;&#156;&#137;&auml;&cedil;&#147;&aelig;&#148;&raquo;&iuml;&frac14;&#140;&aring;&brvbar;&#130;&aelig;&#152;&macr;&egrave;&#128;&#140;&aring;&middot;&sup2;&atilde;&#128;&#130;</h2></div>
+<!--end: blogTitle ??????????????????????????? -->
+      <div id="navigator">
+        <ul id="navList">
+          <li>
+            <a id="blog_nav_sitehome" class="menu"
+            href="http://www.cnblogs.com/">&aring;&#141;&#154;&aring;&reg;&cent;&aring;&#155;&shy;</a>
+          </li>
+          <li>
+            <a id="MyLinks1_SpaceLink" class="menu"
+            href="http://ing.cnblogs.com/">&eacute;&#151;&ordf;&aring;&shy;&#152;</a>
+          </li>
+          <li>
+            <a id="blog_nav_myhome" class="menu"
+            href="http://www.cnblogs.com/shenba/">&eacute;&brvbar;&#150;&eacute;&iexcl;&micro;</a>
+          </li>
+          <li>
+            <a id="blog_nav_newpost" class="menu" rel="nofollow"
+            href="https://i.cnblogs.com/EditPosts.aspx?opt=1">&aelig;&#150;&deg;&eacute;&#154;&#143;&ccedil;&not;&#148;</a>
+          </li>
+          <li>
+            <a id="blog_nav_contact" accesskey="9" class="menu"
+            rel="nofollow"
+            href="https://msg.cnblogs.com/send/%E7%A5%9E%E5%85%AB">&egrave;&#129;&#148;&ccedil;&sup3;&raquo;</a>
+          </li>
+          <li>
+            <a id="blog_nav_admin" class="menu" rel="nofollow"
+            href="https://i.cnblogs.com/">&ccedil;&reg;&iexcl;&ccedil;&#144;&#134;</a>
+          </li>
+          <li>
+          <a id="blog_nav_rss" class="menu"
+          href="http://www.cnblogs.com/shenba/rss">&egrave;&reg;&cent;&eacute;&#152;&#133;</a>
+          
+          <a id="blog_nav_rss_image" class="aHeaderXML"
+          href="http://www.cnblogs.com/shenba/rss">
+            <img src="//www.cnblogs.com/images/xml.gif"
+            alt="&egrave;&reg;&cent;&eacute;&#152;&#133;" />
+          </a></li>
+        </ul>
+        <div class="blogStats">
+          <div id="blog_stats">
+<!--done-->
+          &eacute;&#154;&#143;&ccedil;&not;&#148;- 65&nbsp;
+          &aelig;&#150;&#135;&ccedil;&laquo;&nbsp;- 2&nbsp;
+          &egrave;&macr;&#132;&egrave;&reg;&ordm;- 74&nbsp;</div>
+        </div>
+<!--end: blogStats -->
+      </div>
+<!--end: navigator ??????????????? -->
+    </div>
+    <div id="main">
+      <div id="mainContent">
+        <div class="forFlow">
+        <div id="post_detail">
+          <div id="topics">
+            <div class="post">
+              <h1 class="postTitle">
+              <a id="cb_post_title_url" class="postTitle2"
+              href="http://www.cnblogs.com/shenba/archive/2009/04/12/1434050.html">&aring;&reg;&#158;&ccedil;&#142;&deg;html&egrave;&frac12;&not;Xml</a></h1>
+              <div class="postBody">
+                <div id="cnblogs_post_body">
+                  <p>
+                  &aelig;&#156;&#128;&egrave;&iquest;&#145;&aring;&#156;&uml;&aring;&#129;&#154;&auml;&cedil;&#128;&auml;&ordm;&#155;&ccedil;&frac12;&#145;&eacute;&iexcl;&micro;&auml;&iquest;&iexcl;&aelig;&#129;&macr;&eacute;&#135;&#135;&eacute;&#155;&#134;&ccedil;&#154;&#132;&aring;&middot;&yen;&auml;&frac12;&#156;&iuml;&frac14;&#140;&egrave;&macr;&acute;&eacute;&#128;&#154;&auml;&iquest;&#151;&ccedil;&#130;&sup1;&aring;&deg;&plusmn;&aelig;&#152;&macr;&ccedil;&#136;&not;&egrave;&#153;&laquo;&aring;&middot;&yen;&aring;&#133;&middot;&iuml;&frac14;&#140;&egrave;&brvbar;&#129;&ccedil;&#155;&#145;&aelig;&#142;&sect;&eacute;&iexcl;&micro;&eacute;&#157;&cent;&auml;&cedil;&shy;&aelig;&#159;&#144;&auml;&cedil;&#128;&eacute;&#131;&uml;&aring;&#136;&#134;&aring;&#134;&#133;&aring;&reg;&sup1;&aelig;&#152;&macr;&aring;&#144;&brvbar;&aring;&#143;&#145;&ccedil;&#148;&#159;&aring;&#143;&#152;&aring;&#140;&#150;&atilde;&#128;&#130;&egrave;&micro;&middot;&aring;&#136;&#157;&egrave;&#128;&#131;&egrave;&#153;&#145;&ccedil;&#148;&uml;&aelig;&shy;&pound;&aring;&#136;&#153;&egrave;&iexcl;&uml;&egrave;&frac34;&frac34;&aring;&frac14;&#143;&aring;&#142;&raquo;&aring;&#140;&sup1;&eacute;&#133;&#141;&ccedil;&frac12;&#145;&eacute;&iexcl;&micro;&aelig;&ordm;&#144;&ccedil;&nbsp;&#129;&iuml;&frac14;&#140;&ccedil;&raquo;&#143;&egrave;&iquest;&#135;&aring;&#146;&uml;&egrave;&macr;&cent;&aelig;&#156;&#137;&ccedil;&raquo;&#143;&eacute;&ordf;&#140;&auml;&ordm;&ordm;&aring;&pound;&laquo;&iuml;&frac14;&#140;&aelig;&#142;&uml;&egrave;&#141;&#144;&auml;&frac12;&iquest;&ccedil;&#148;&uml;xpath&aring;&#142;&raquo;&egrave;&#142;&middot;&aring;&#143;&#150;&eacute;&iexcl;&micro;&eacute;&#157;&cent;&aring;&#134;&#133;&aring;&reg;&sup1;&egrave;&#131;&frac12;&egrave;&#142;&middot;&aring;&frac34;&#151;&aelig;&#155;&acute;&aring;&yen;&frac12;&ccedil;&#154;&#132;&aelig;&#149;&#136;&ccedil;&#142;&#135;&atilde;&#128;&#130;&auml;&frac12;&#134;&aelig;&#152;&macr;&aring;&macr;&sup1;&auml;&ordm;&#142;html&egrave;&iquest;&#153;&ccedil;&sect;&#141;&aring;&reg;&frac12;&aelig;&#157;&frac34;&egrave;&macr;&shy;&aelig;&sup3;&#149;&egrave;&brvbar;&#129;&aelig;&plusmn;&#130;&ccedil;&#154;&#132;&egrave;&macr;&shy;&egrave;&uml;&#128;&aelig;&#157;&yen;&egrave;&macr;&acute;&iuml;&frac14;&#140;&auml;&cedil;&#141;&aring;&#143;&macr;&egrave;&#131;&frac12;100%&aring;&#156;&deg;&aring;&reg;&#140;&aring;&#133;&uml;&ccedil;&not;&brvbar;&aring;&#144;&#136;xml&aelig;&nbsp;&#135;&aring;&#135;&#134;&iuml;&frac14;&#140;&eacute;&#130;&pound;&auml;&sup1;&#136;&aring;&deg;&plusmn;&aelig;&sup2;&iexcl;&aelig;&sup3;&#149;&auml;&frac12;&iquest;&ccedil;&#148;&uml;xpath&iuml;&frac14;&#140;&egrave;&macr;&acute;&aring;&frac34;&#151;&aelig;&#155;&acute;&ccedil;&#155;&acute;&aelig;&#142;&yen;&ccedil;&#130;&sup1;&aring;&deg;&plusmn;&aelig;&#152;&macr;&iuml;&frac14;&#154;&auml;&cedil;&#141;&egrave;&#131;&frac12;&aelig;&#138;&#138;html&aelig;&ordm;&#144;&ccedil;&nbsp;&#129;&ccedil;&#155;&acute;&aelig;&#142;&yen;&aring;&#138;&nbsp;&egrave;&frac12;&frac12;&aring;&#136;&deg;xmldocument&auml;&cedil;&shy;&atilde;&#128;&#130;&auml;&cedil;&ordm;&auml;&ordm;&#134;&auml;&frac12;&iquest;&ccedil;&#148;&uml;xpath&iuml;&frac14;&#140;&aring;&#143;&ordf;&egrave;&#131;&frac12;&aring;&macr;&sup1;html&aring;&#134;&#133;&aring;&reg;&sup1;&egrave;&iquest;&#155;&egrave;&iexcl;&#140;&egrave;&frac12;&not;&aelig;&#141;&cent;&aelig;&#136;&#150;&egrave;&#128;&#133;&egrave;&sect;&#132;&egrave;&#140;&#131;&iuml;&frac14;&#140;&auml;&ordm;&#142;&aelig;&#152;&macr;&aring;&deg;&plusmn;&aring;&#134;&#153;&auml;&ordm;&#134;&egrave;&iquest;&#153;&auml;&sup1;&#136;&auml;&cedil;&#128;&auml;&cedil;&ordf;&aelig;&#150;&sup1;&aelig;&sup3;&#149;&atilde;&#128;&#130;</p>
+                  <p>
+                  &egrave;&macr;&yen;&aelig;&#150;&sup1;&aelig;&sup3;&#149;&aelig;&macr;&#148;&egrave;&frac34;&#131;&aring;&#156;&deg;&aring;&#129;&middot;&aelig;&#135;&#146;&iuml;&frac14;&#140;&aring;&#128;&#159;&aring;&#138;&copy;&auml;&ordm;&#134;&aring;&frac14;&#128;&aelig;&ordm;&#144;&aring;&middot;&yen;&aring;&#133;&middot;htmlparser&egrave;&#142;&middot;&aring;&#143;&#150;html&aelig;&ordm;&#144;&ccedil;&nbsp;&#129;&auml;&cedil;&shy;&ccedil;&#154;&#132;&aelig;&#137;&#128;&aelig;&#156;&#137;&egrave;&#138;&#130;&ccedil;&#130;&sup1;&iuml;&frac14;&#140;&ccedil;&#132;&para;&aring;&#144;&#142;&eacute;&#129;&#141;&aring;&#142;&#134;&aring;&#144;&#132;&auml;&cedil;&ordf;&egrave;&#138;&#130;&ccedil;&#130;&sup1;&iuml;&frac14;&#140;&egrave;&frac12;&not;&aelig;&#141;&cent;&auml;&cedil;&ordm;&aring;&macr;&sup1;&aring;&ordm;&#148;&ccedil;&#154;&#132;xmlnode&atilde;&#128;&#130;&aring;&macr;&sup1;&auml;&ordm;&#142;html&auml;&cedil;&shy;&aelig;&#156;&#137;&aelig;&#156;&ordf;&eacute;&#151;&shy;&aring;&#144;&#136;&ccedil;&#154;&#132;&egrave;&#138;&#130;&ccedil;&#130;&sup1;&iuml;&frac14;&#140;&aring;&#156;&uml;&egrave;&frac12;&not;&aelig;&#141;&cent;&aring;&#144;&#142;&aring;&reg;&#158;&eacute;&#153;&#133;&auml;&raquo;&pound;&ccedil;&nbsp;&#129;&auml;&frac14;&#154;&aelig;&#156;&#137;&auml;&cedil;&#128;&auml;&ordm;&#155;&aring;&middot;&reg;&aring;&#136;&laquo;&iuml;&frac14;&#140;&auml;&frac12;&#134;&aelig;&#152;&macr;&auml;&cedil;&#141;&aring;&frac12;&plusmn;&aring;&#147;&#141;xpath&ccedil;&#154;&#132;&auml;&frac12;&iquest;&ccedil;&#148;&uml;&iuml;&frac14;&#136;&egrave;&iquest;&#153;&auml;&sup1;&#159;&egrave;&middot;&#159;&aring;&brvbar;&#130;&auml;&frac12;&#149;&aring;&#134;&#153;xpath&ccedil;&#154;&#132;&aring;&#134;&#133;&aring;&reg;&sup1;&aelig;&#156;&#137;&aring;&#133;&sup3;&iuml;&frac14;&#137;&atilde;&#128;&#130;</p>
+                  <p>
+                  &aring;&reg;&#158;&ccedil;&#142;&deg;&aelig;&#150;&sup1;&aring;&frac14;&#143;&aring;&brvbar;&#130;&auml;&cedil;&#139;&iuml;&frac14;&#140;&eacute;&#156;&#128;&aring;&frac14;&#149;&ccedil;&#148;&uml;
+                  <a title="htmlparser&ccedil;&#154;&#132;dll"
+                  href="http://files.cnblogs.com/shenba/HtmlParser.rar">htmlparser&ccedil;&#154;&#132;dll</a></p>
+                  <p>&nbsp;</p>
+                  <div class="cnblogs_code">
+                    <img id="Code_Closed_Image_132654"
+                    onclick="this.style.display='none'; document.getElementById('Code_Closed_Text_132654').style.display='none'; document.getElementById('Code_Open_Image_132654').style.display='inline'; document.getElementById('Code_Open_Text_132654').style.display='inline';"
+                     height="16"
+                    src="http://www.cnblogs.com/Images/OutliningIndicators/ContractedBlock.gif"
+                     width="11" align="top" />
+                    <img id="Code_Open_Image_132654"
+                    style="display: none"
+                    onclick="this.style.display='none'; document.getElementById('Code_Open_Text_132654').style.display='none'; getElementById('Code_Closed_Image_132654').style.display='inline'; getElementById('Code_Closed_Text_132654').style.display='inline';"
+                     height="16"
+                    src="http://www.cnblogs.com/Images/OutliningIndicators/ExpandedBlockStart.gif"
+                     width="11" align="top" />
+                    <span class="cnblogs_code_Collapse"
+                    id="Code_Closed_Text_132654">CovertHtmlToXml</span>
+                    <span id="Code_Open_Text_132654"
+                    style="display: none">
+                      <br />
+<!--<br /><br />Code highlighting produced by Actipro CodeHighlighter (freeware)<br />http://www.CodeHighlighter.com/<br /><br />-->
+                      <span
+                      style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #808080">///</span>
+                      <span style="color: #008000">&nbsp;</span>
+                      <span
+                      style="color: #808080">&lt;summary&gt;</span>
+                      <span style="color: #008000">
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #808080">///</span>
+                      <span
+                      style="color: #008000">&nbsp;&egrave;&sect;&pound;&aelig;&#158;&#144;Xml&aelig;&#150;&#135;&auml;&raquo;&para;&ccedil;&#154;&#132;&aring;&cedil;&reg;&aring;&#138;&copy;&ccedil;&plusmn;&raquo;
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #808080">///</span>
+                      <span style="color: #008000">&nbsp;</span>
+                      <span
+                      style="color: #808080">&lt;/summary&gt;</span>
+                      <span style="color: #808080">
+                        <br />
+                      </span>
+                      <span
+                      style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">public</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">class</span>
+                      <span style="color: #000000">&nbsp;XMLHelper
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;{
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #808080">///</span>
+                      <span style="color: #008000">&nbsp;</span>
+                      <span
+                      style="color: #808080">&lt;summary&gt;</span>
+                      <span style="color: #008000">
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #808080">///</span>
+                      <span
+                      style="color: #008000">&nbsp;&aelig;&#156;&#137;&aelig;&#149;&#136;&aring;&#144;&#141;&ccedil;&sect;&deg;&ccedil;&#154;&#132;&aelig;&shy;&pound;&aring;&#136;&#153;&egrave;&iexcl;&uml;&egrave;&frac34;&frac34;&aring;&frac14;&#143;
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #808080">///</span>
+                      <span style="color: #008000">&nbsp;</span>
+                      <span
+                      style="color: #808080">&lt;/summary&gt;</span>
+                      <span style="color: #808080">
+                        <br />
+                      </span>
+                      <span
+                      style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">static</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">string</span>
+                      <span
+                      style="color: #000000">&nbsp;validName&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #800000">@"</span>
+                      <span
+                      style="color: #800000">^[^\$\/;""\!#\)\.]+$</span>
+                      <span style="color: #800000">"</span>
+                      <span style="color: #000000">;
+                      <br />
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">#region</span>
+                      <span
+                      style="color: #000000">&nbsp;CovertHtmlToXml</span>
+                      <span style="color: #000000">
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #808080">///</span>
+                      <span style="color: #008000">&nbsp;</span>
+                      <span
+                      style="color: #808080">&lt;summary&gt;</span>
+                      <span style="color: #008000">
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #808080">///</span>
+                      <span
+                      style="color: #008000">&nbsp;&egrave;&frac12;&not;&aelig;&#141;&cent;html&aelig;&ordm;&#144;&ccedil;&nbsp;&#129;&auml;&cedil;&ordm;xml&aelig;&nbsp;&frac14;&aring;&frac14;&#143;
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #808080">///</span>
+                      <span style="color: #008000">&nbsp;</span>
+                      <span
+                      style="color: #808080">&lt;/summary&gt;</span>
+                      <span style="color: #008000">
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #808080">///</span>
+                      <span style="color: #008000">&nbsp;</span>
+                      <span
+                      style="color: #808080">&lt;param&nbsp;name="html"&gt;</span>
+                      <span
+                      style="color: #008000">html&aelig;&ordm;&#144;&ccedil;&nbsp;&#129;</span>
+                      <span
+                      style="color: #808080">&lt;/param&gt;</span>
+                      <span style="color: #008000">
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #808080">///</span>
+                      <span style="color: #008000">&nbsp;</span>
+                      <span
+                      style="color: #808080">&lt;returns&gt;</span>
+                      <span
+                      style="color: #008000">xml&aring;&shy;&#151;&ccedil;&not;&brvbar;&auml;&cedil;&sup2;</span>
+                      <span
+                      style="color: #808080">&lt;/returns&gt;</span>
+                      <span style="color: #008000">
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #808080">///</span>
+                      <span style="color: #008000">&nbsp;</span>
+                      <span
+                      style="color: #808080">&lt;param&nbsp;name="TargetTag"&gt;</span>
+                      <span
+                      style="color: #008000">&eacute;&#156;&#128;&egrave;&frac12;&not;&aelig;&#141;&cent;&ccedil;&#154;&#132;&aelig;&nbsp;&#135;&egrave;&reg;&deg;&aring;&#144;&#141;</span>
+                      <span
+                      style="color: #808080">&lt;/param&gt;</span>
+                      <span style="color: #808080">
+                        <br />
+                      </span>
+                      <span
+                      style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">public</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">static</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">string</span>
+                      <span
+                      style="color: #000000">&nbsp;CovertHtmlToXml(</span>
+                      <span style="color: #0000ff">string</span>
+                      <span
+                      style="color: #000000">&nbsp;html,&nbsp;</span>
+                      <span style="color: #0000ff">string</span>
+                      <span style="color: #000000">&nbsp;targetTag)
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">try</span>
+                      <span style="color: #000000">
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XmlDocument&nbsp;doc&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">new</span>
+                      <span
+                      style="color: #000000">&nbsp;XmlDocument();
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XmlNode&nbsp;xmlDeclaration&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span
+                      style="color: #000000">&nbsp;doc.CreateXmlDeclaration(</span>
+                      <span style="color: #800000">"</span>
+                      <span style="color: #800000">1.0</span>
+                      <span style="color: #800000">"</span>
+                      <span style="color: #000000">,&nbsp;</span>
+                      <span style="color: #800000">"</span>
+                      <span style="color: #800000">utf-8</span>
+                      <span style="color: #800000">"</span>
+                      <span style="color: #000000">,&nbsp;</span>
+                      <span style="color: #0000ff">null</span>
+                      <span style="color: #000000">);
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;doc.AppendChild(xmlDeclaration);
+                      <br />
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #008000">//</span>
+                      <span
+                      style="color: #008000">&nbsp;&aring;&#128;&#159;&aring;&#138;&copy;htmlparser&egrave;&sect;&pound;&aelig;&#158;&#144;html&aring;&#134;&#133;&aring;&reg;&sup1;</span>
+                      <span style="color: #008000">
+                        <br />
+                      </span>
+                      <span
+                      style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parser&nbsp;parser&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span
+                      style="color: #000000">&nbsp;Parser.CreateParser(html,&nbsp;</span>
+                      <span style="color: #800000">"</span>
+                      <span style="color: #800000">GBK</span>
+                      <span style="color: #800000">"</span>
+                      <span style="color: #000000">);
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #008000">//</span>
+                      <span
+                      style="color: #008000">&nbsp;&ccedil;&shy;&#155;&eacute;&#128;&#137;&aring;&#135;&ordm;&aelig;&#140;&#135;&aring;&reg;&#154;&ccedil;&#154;&#132;&egrave;&#138;&#130;&ccedil;&#130;&sup1;</span>
+                      <span style="color: #008000">
+                        <br />
+                      </span>
+                      <span
+                      style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TagNameFilter&nbsp;tnf&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">new</span>
+                      <span
+                      style="color: #000000">&nbsp;TagNameFilter(targetTag);
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NodeList&nbsp;nodes&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span
+                      style="color: #000000">&nbsp;parser.Parse(tnf);
+                      <br />
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #008000">//</span>
+                      <span
+                      style="color: #008000">&nbsp;&aring;&#136;&#155;&aring;&raquo;&ordm;&aelig;&nbsp;&sup1;&egrave;&#138;&#130;&ccedil;&#130;&sup1;</span>
+                      <span style="color: #008000">
+                        <br />
+                      </span>
+                      <span
+                      style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XmlElement&nbsp;root&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span
+                      style="color: #000000">&nbsp;doc.CreateElement(</span>
+                      <span style="color: #800000">"</span>
+                      <span style="color: #800000">Tags</span>
+                      <span style="color: #800000">"</span>
+                      <span style="color: #000000">);
+                      <br />
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TagNode&nbsp;tagNode&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">null</span>
+                      <span style="color: #000000">;
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hashtable&nbsp;ht&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">null</span>
+                      <span style="color: #000000">;
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XmlAttribute&nbsp;attr&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">null</span>
+                      <span style="color: #000000">;
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XmlElement&nbsp;parent&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">null</span>
+                      <span style="color: #000000">;
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">for</span>
+                      <span style="color: #000000">&nbsp;(</span>
+                      <span style="color: #0000ff">int</span>
+                      <span
+                      style="color: #000000">&nbsp;i&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #800080">0</span>
+                      <span
+                      style="color: #000000">;&nbsp;i&nbsp;</span>
+                      <span style="color: #000000">&lt;</span>
+                      <span
+                      style="color: #000000">&nbsp;nodes.Size();&nbsp;i</span>
+                      <span style="color: #000000">++</span>
+                      <span style="color: #000000">)
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tagNode&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span
+                      style="color: #000000">&nbsp;nodes[i]&nbsp;</span>
+                      <span style="color: #0000ff">as</span>
+                      <span style="color: #000000">&nbsp;TagNode;
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;parent&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span
+                      style="color: #000000">&nbsp;doc.CreateElement(tagNode.TagName);
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #008000">//</span>
+                      <span
+                      style="color: #008000">&nbsp;&aelig;&middot;&raquo;&aring;&#138;&nbsp;&aring;&plusmn;&#158;&aelig;&#128;&sect;</span>
+                      <span style="color: #008000">
+                        <br />
+                      </span>
+                      <span
+                      style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ht&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span
+                      style="color: #000000">&nbsp;tagNode.Attributes;
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">foreach</span>
+                      <span
+                      style="color: #000000">&nbsp;(DictionaryEntry&nbsp;ent&nbsp;</span>
+                      <span style="color: #0000ff">in</span>
+                      <span style="color: #000000">&nbsp;ht)
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #008000">//</span>
+                      <span
+                      style="color: #008000">&nbsp;&aelig;&#159;&yen;&ccedil;&#156;&#139;&aring;&plusmn;&#158;&aelig;&#128;&sect;&aring;&#144;&#141;&aelig;&#152;&macr;&aring;&#144;&brvbar;&aring;&#144;&#136;&aelig;&sup3;&#149;</span>
+                      <span style="color: #008000">
+                        <br />
+                      </span>
+                      <span
+                      style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">if</span>
+                      <span
+                      style="color: #000000">&nbsp;(Regex.IsMatch(ent.Key.ToString(),&nbsp;validName))
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;attr&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span
+                      style="color: #000000">&nbsp;doc.CreateAttribute(ent.Key.ToString());
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;attr.Value&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span
+                      style="color: #000000">&nbsp;ent.Value.ToString();
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;parent.Attributes.Append(attr);
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</span>
+                      <span style="color: #008000">//</span>
+                      <span
+                      style="color: #008000">&nbsp;end&nbsp;foreach&nbsp;(DictionaryEntry&nbsp;ent&nbsp;in&nbsp;ht)</span>
+                      <span style="color: #008000">
+                        <br />
+                      </span>
+                      <span style="color: #000000">
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AppendChild(tagNode,&nbsp;parent,&nbsp;doc);
+                      <br />
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;root.AppendChild(parent);
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;doc.AppendChild(root);
+                      <br />
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">return</span>
+                      <span
+                      style="color: #000000">&nbsp;doc.OuterXml;
+                      <br />
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #008000">//</span>
+                      <span
+                      style="color: #008000">throw&nbsp;new&nbsp;Exception("&ccedil;&raquo;&#153;&aring;&reg;&#154;&ccedil;&#154;&#132;html&aelig;&#150;&#135;&aelig;&#156;&not;&aring;&iquest;&#133;&eacute;&iexcl;&raquo;&egrave;&#135;&sup3;&aring;&deg;&#145;&aring;&#140;&#133;&aring;&#144;&laquo;&auml;&cedil;&#128;&auml;&cedil;&ordf;"&nbsp;+&nbsp;targetTag&nbsp;+&nbsp;"&egrave;&#138;&#130;&ccedil;&#130;&sup1;");</span>
+                      <span style="color: #008000">
+                        <br />
+                      </span>
+                      <span
+                      style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">catch</span>
+                      <span
+                      style="color: #000000">&nbsp;(Exception&nbsp;ex)
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">throw</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">new</span>
+                      <span
+                      style="color: #000000">&nbsp;Exception(</span>
+                      <span style="color: #800000">"</span>
+                      <span
+                      style="color: #800000">&egrave;&frac12;&not;&aelig;&#141;&cent;html&aring;&#134;&#133;&aring;&reg;&sup1;&aring;&#135;&ordm;&eacute;&#148;&#153;:</span>
+                      <span style="color: #800000">"</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #000000">+</span>
+                      <span
+                      style="color: #000000">&nbsp;ex.Message);
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+                      <br />
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #808080">///</span>
+                      <span style="color: #008000">&nbsp;</span>
+                      <span
+                      style="color: #808080">&lt;summary&gt;</span>
+                      <span style="color: #008000">
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #808080">///</span>
+                      <span
+                      style="color: #008000">&nbsp;&aelig;&middot;&raquo;&aring;&#138;&nbsp;&aring;&shy;&#144;&egrave;&#138;&#130;&ccedil;&#130;&sup1;
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #808080">///</span>
+                      <span style="color: #008000">&nbsp;</span>
+                      <span
+                      style="color: #808080">&lt;/summary&gt;</span>
+                      <span style="color: #008000">
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #808080">///</span>
+                      <span style="color: #008000">&nbsp;</span>
+                      <span
+                      style="color: #808080">&lt;param&nbsp;name="tagNode"&gt;</span>
+                      <span
+                      style="color: #008000">Html&ccedil;&#154;&#132;&ccedil;&#136;&para;&egrave;&#138;&#130;&ccedil;&#130;&sup1;</span>
+                      <span
+                      style="color: #808080">&lt;/param&gt;</span>
+                      <span style="color: #008000">
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #808080">///</span>
+                      <span style="color: #008000">&nbsp;</span>
+                      <span
+                      style="color: #808080">&lt;param&nbsp;name="parent"&gt;</span>
+                      <span
+                      style="color: #008000">Xml&ccedil;&#154;&#132;&ccedil;&#136;&para;&egrave;&#138;&#130;&ccedil;&#130;&sup1;</span>
+                      <span
+                      style="color: #808080">&lt;/param&gt;</span>
+                      <span style="color: #008000">
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #808080">///</span>
+                      <span style="color: #008000">&nbsp;</span>
+                      <span
+                      style="color: #808080">&lt;param&nbsp;name="doc"&gt;</span>
+                      <span
+                      style="color: #008000">Xml&aelig;&#150;&#135;&aelig;&iexcl;&pound;&aring;&macr;&sup1;&egrave;&plusmn;&iexcl;</span>
+                      <span
+                      style="color: #808080">&lt;/param&gt;</span>
+                      <span style="color: #808080">
+                        <br />
+                      </span>
+                      <span
+                      style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">private</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">static</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">void</span>
+                      <span
+                      style="color: #000000">&nbsp;AppendChild(INode&nbsp;tagNode,&nbsp;XmlNode&nbsp;parent,&nbsp;XmlDocument&nbsp;doc)
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INode&nbsp;node&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">null</span>
+                      <span style="color: #000000">;
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XmlNode&nbsp;xmlNode&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">null</span>
+                      <span style="color: #000000">;
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XmlAttribute&nbsp;attr&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">null</span>
+                      <span style="color: #000000">;
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hashtable&nbsp;ht&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">null</span>
+                      <span style="color: #000000">;
+                      <br />
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #008000">//</span>
+                      <span
+                      style="color: #008000">&nbsp;&aring;&#136;&curren;&aelig;&#150;&shy;&aelig;&#152;&macr;&aring;&#144;&brvbar;&aring;&#140;&#133;&aring;&#144;&laquo;&aring;&shy;&#144;&egrave;&#138;&#130;&ccedil;&#130;&sup1;</span>
+                      <span style="color: #008000">
+                        <br />
+                      </span>
+                      <span
+                      style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">if</span>
+                      <span
+                      style="color: #000000">&nbsp;(tagNode.Children&nbsp;</span>
+                      <span style="color: #000000">!=</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">null</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span
+                      style="color: #000000">&amp;&amp;</span>
+                      <span
+                      style="color: #000000">&nbsp;tagNode.Children.Size()&nbsp;</span>
+                      <span style="color: #000000">&gt;</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #800080">0</span>
+                      <span style="color: #000000">)
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">for</span>
+                      <span style="color: #000000">&nbsp;(</span>
+                      <span style="color: #0000ff">int</span>
+                      <span
+                      style="color: #000000">&nbsp;i&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #800080">0</span>
+                      <span
+                      style="color: #000000">;&nbsp;i&nbsp;</span>
+                      <span style="color: #000000">&lt;</span>
+                      <span
+                      style="color: #000000">&nbsp;tagNode.Children.Size();&nbsp;i</span>
+                      <span style="color: #000000">++</span>
+                      <span style="color: #000000">)
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;node&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span
+                      style="color: #000000">&nbsp;tagNode.Children[i];
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xmlNode&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">null</span>
+                      <span style="color: #000000">;
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;attr&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">null</span>
+                      <span style="color: #000000">;
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ht&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">null</span>
+                      <span style="color: #000000">;
+                      <br />
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #008000">//</span>
+                      <span
+                      style="color: #008000">&nbsp;&aring;&brvbar;&#130;&aelig;&#158;&#156;&aelig;&#152;&macr;html&aelig;&nbsp;&#135;&egrave;&reg;&deg;&egrave;&#138;&#130;&ccedil;&#130;&sup1;</span>
+                      <span style="color: #008000">
+                        <br />
+                      </span>
+                      <span
+                      style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">if</span>
+                      <span
+                      style="color: #000000">&nbsp;(node&nbsp;</span>
+                      <span style="color: #0000ff">is</span>
+                      <span style="color: #000000">&nbsp;TagNode)
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TagNode&nbsp;tn&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span
+                      style="color: #000000">&nbsp;node&nbsp;</span>
+                      <span style="color: #0000ff">as</span>
+                      <span style="color: #000000">&nbsp;TagNode;
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">if</span>
+                      <span
+                      style="color: #000000">&nbsp;(Regex.IsMatch(tn.TagName,&nbsp;validName))
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xmlNode&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span
+                      style="color: #000000">&nbsp;doc.CreateElement(tn.TagName);
+                      <br />
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #008000">//</span>
+                      <span
+                      style="color: #008000">&nbsp;&aelig;&middot;&raquo;&aring;&#138;&nbsp;&aring;&plusmn;&#158;&aelig;&#128;&sect;</span>
+                      <span style="color: #008000">
+                        <br />
+                      </span>
+                      <span
+                      style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ht&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span
+                      style="color: #000000">&nbsp;tn.Attributes;
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">foreach</span>
+                      <span
+                      style="color: #000000">&nbsp;(DictionaryEntry&nbsp;ent&nbsp;</span>
+                      <span style="color: #0000ff">in</span>
+                      <span style="color: #000000">&nbsp;ht)
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #008000">//</span>
+                      <span
+                      style="color: #008000">&nbsp;&aelig;&#159;&yen;&ccedil;&#156;&#139;&aring;&plusmn;&#158;&aelig;&#128;&sect;&aring;&#144;&#141;&aelig;&#152;&macr;&aring;&#144;&brvbar;&aring;&#144;&#136;&aelig;&sup3;&#149;</span>
+                      <span style="color: #008000">
+                        <br />
+                      </span>
+                      <span
+                      style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">if</span>
+                      <span
+                      style="color: #000000">&nbsp;(Regex.IsMatch(ent.Key.ToString(),&nbsp;validName))
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;attr&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span
+                      style="color: #000000">&nbsp;doc.CreateAttribute(ent.Key.ToString());
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;attr.Value&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span
+                      style="color: #000000">&nbsp;ent.Value.ToString();
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xmlNode.Attributes.Append(attr);
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+                      <br />
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #008000">//</span>
+                      <span
+                      style="color: #008000">&nbsp;&aring;&brvbar;&#130;&aelig;&#158;&#156;&aelig;&#152;&macr;&aelig;&#150;&#135;&aelig;&#156;&not;&egrave;&#138;&#130;&ccedil;&#130;&sup1;</span>
+                      <span style="color: #008000">
+                        <br />
+                      </span>
+                      <span
+                      style="color: #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">if</span>
+                      <span
+                      style="color: #000000">&nbsp;(node&nbsp;</span>
+                      <span style="color: #0000ff">is</span>
+                      <span style="color: #000000">&nbsp;TextNode)
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xmlNode&nbsp;</span>
+                      <span style="color: #000000">=</span>
+                      <span
+                      style="color: #000000">&nbsp;doc.CreateTextNode((node&nbsp;</span>
+                      <span style="color: #0000ff">as</span>
+                      <span
+                      style="color: #000000">&nbsp;TextNode).ToPlainTextString());
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+                      <br />
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span style="color: #0000ff">if</span>
+                      <span
+                      style="color: #000000">&nbsp;(xmlNode&nbsp;</span>
+                      <span style="color: #000000">!=</span>
+                      <span style="color: #000000">&nbsp;</span>
+                      <span style="color: #0000ff">null</span>
+                      <span style="color: #000000">)
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;parent.AppendChild(xmlNode);
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AppendChild(node,&nbsp;xmlNode,&nbsp;doc);
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                      <span
+                      style="color: #0000ff">#endregion</span>
+                      <span style="color: #000000">
+                      <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;}</span>
+                    </span>
+                  </div>
+                  <p>&nbsp;</p>
+                </div>
+                <div id="MySignature"></div>
+                <div id="blog_post_info_block">
+                  <div id="BlogPostCategory"></div>
+                  <div id="EntryTag"></div>
+                  <div id="blog_post_info"></div>
+                  <div id="post_next_prev"></div>
+                </div>
+              </div>
+              <div class="postDesc">posted @ 
+              <span id="post-date">2009-04-12 10:29</span> 
+              <a
+              href='http://www.cnblogs.com/shenba/'>&ccedil;&yen;&#158;&aring;&#133;&laquo;</a>
+              &eacute;&#152;&#133;&egrave;&macr;&raquo;(
+              <span id="post_view_count">...</span>)
+              &egrave;&macr;&#132;&egrave;&reg;&ordm;(
+              <span id="post_comment_count">...</span>) 
+              <a
+              href="https://i.cnblogs.com/EditPosts.aspx?postid=1434050"
+               rel="nofollow">&ccedil;&frac14;&#150;&egrave;&frac34;&#145;</a>
+              
+              <a href="#"
+              onclick="AddToWz(1434050);return false;">&aelig;&#148;&para;&egrave;&#151;&#143;</a></div>
+            </div>
+<script type="text/javascript">
+var
+allowComments=true,cb_blogId=26671,cb_entryId=1434050,cb_blogApp=currentBlogApp,cb_blogUserGuid='4f743d0b-63cf-dd11-9e4d-001cf0cd104b',cb_entryCreatedDate='2009/4/12
+10:29:00';loadViewCount(cb_entryId);
+            </script>
+          </div>
+<!--end: topics ?????????????????????-->
+        </div>
+        <a id="!comments" name="!comments"></a>
+        <div id="blog-comments-placeholder"></div>
+<script type="text/javascript">
+var commentManager = new
+blogCommentManager();commentManager.renderComments(0);
+        </script> 
+        <div id='comment_form' class='commentform'>
+        <a id="commentform" name='commentform'></a> 
+        <div id='divCommentShow'></div>
+        <div id='comment_nav'>
+          <span id='span_refresh_tips'></span>
+          <a href='javascript:void(0);'
+          onclick='return RefreshCommentList();'
+          id='lnk_RefreshComments' runat='server'
+          clientidmode='Static'>&aring;&#136;&middot;&aelig;&#150;&deg;&egrave;&macr;&#132;&egrave;&reg;&ordm;</a>
+          <a href='#'
+          onclick='return RefreshPage();'>&aring;&#136;&middot;&aelig;&#150;&deg;&eacute;&iexcl;&micro;&eacute;&#157;&cent;</a>
+          <a
+          href='#top'>&egrave;&iquest;&#148;&aring;&#155;&#158;&eacute;&iexcl;&para;&eacute;&#131;&uml;</a>
+        </div>
+        <div id='comment_form_container'></div>
+        <div class='ad_text_commentbox'
+        id='ad_text_under_commentbox'></div>
+        <div id='ad_t2'></div>
+        <div id='opt_under_post'></div>
+        <div id='ad_c1' class='c_ad_block'></div>
+        <div id='under_post_news'></div>
+        <div id='ad_c2' class='c_ad_block'></div>
+        <div id='under_post_kb'></div>
+        <div id='HistoryToday' class='c_ad_block'></div>
+<script type='text/javascript'>
+    fixPostBody();
+    setTimeout(function () { incrementViewCount(cb_entryId); },
+50);
+    deliverAdT2();
+    deliverAdC1();
+    deliverAdC2();    
+    loadNewsAndKb();
+    loadBlogSignature();
+    LoadPostInfoBlock(cb_blogId, cb_entryId, cb_blogApp,
+cb_blogUserGuid);
+    GetPrevNextPost(cb_entryId, cb_blogId, cb_entryCreatedDate);
+    loadOptUnderPost();
+    GetHistoryToday(cb_blogId, cb_blogApp, cb_entryCreatedDate);   
+        </script></div></div>
+<!--end: forFlow -->
+      </div>
+<!--end: mainContent ??????????????????-->
+      <div id="sideBar">
+        <div id="sideBarMain">
+<!--done-->
+          <div class="newsItem">
+            <h3 class="catListTitle">
+            &aring;&#133;&not;&aring;&#145;&#138;</h3>
+            <div id="blog-news"></div>
+<script type="text/javascript">
+loadBlogNews();
+            </script>
+          </div>
+          <div id="calendar">
+            <div id="blog-calendar" style="display:none"></div>
+<script type="text/javascript">
+loadBlogDefaultCalendar();
+            </script>
+          </div>
+          <div id="leftcontentcontainer">
+            <div id="blog-sidecolumn"></div>
+<script type="text/javascript">
+loadBlogSideColumn();
+            </script>
+          </div>
+        </div>
+<!--end: sideBarMain -->
+      </div>
+<!--end: sideBar ??????????????? -->
+    </div>
+<!--end: main -->
+    <div id="footer">
+<!--done-->
+    Copyright &copy;2016 &ccedil;&yen;&#158;&aring;&#133;&laquo;
+    &egrave;&deg;&uml;&auml;&raquo;&yen;&aelig;&shy;&curren;&aelig;&uml;&iexcl;&aelig;&#157;&iquest;&ccedil;&yen;&#157;&egrave;&acute;&ordm;&atilde;&#128;&#144;&aring;&#141;&#154;&aring;&reg;&cent;&aring;&#155;&shy;&aring;&frac14;&#128;&aring;&#143;&#145;&egrave;&#128;&#133;&aring;&frac34;&#129;&eacute;&#128;&#148;&atilde;&#128;&#145;&ccedil;&sup3;&raquo;&aring;&#136;&#151;&aring;&#155;&frac34;&auml;&sup1;&brvbar;&auml;&sup1;&#139;&atilde;&#128;&#138;&auml;&frac12;&nbsp;&aring;&iquest;&#133;&eacute;&iexcl;&raquo;&ccedil;&#159;&yen;&eacute;&#129;&#147;&ccedil;&#154;&#132;.NET&atilde;&#128;&#139;&aring;&#135;&ordm;&ccedil;&#137;&#136;&aring;&#143;&#145;&egrave;&iexcl;&#140;</div>
+<!--end: footer -->
+  </div>
+<!--end: home ???????????????????????? -->
+<!--PageEndHtml Block Begin-->
+<script type="text/javascript"
+src='http://s30.cnzz.com/stat.php?id=168419&amp;web_id=168419&amp;online=2'
+ language='JavaScript' charset='gb2312'>
+  </script>
+<!--PageEndHtml Block End-->
+  </body>
+</html>
