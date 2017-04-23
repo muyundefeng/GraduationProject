@@ -1,0 +1,14 @@
+/home/lisheng/work/workspace/javaspace/mySpider/src/main/java/com.muyundefeng.spider.schedule/MyThreadPool.java
+/home/lisheng/work/workspace/javaspace/mySpider/src/main/java/com.muyundefeng.spider.entity/Page.java
+/home/lisheng/work/workspace/javaspace/mySpider/src/main/java/com.muyundefeng.spider.downloader/Downloader.java
+/home/lisheng/work/workspace/javaspace/mySpider/src/main/java/com/muyundefeng/spider/utils/RmDuplicateUtils.java
+/home/lisheng/work/workspace/javaspace/mySpider/src/main/java/com.muyundefeng.spider.schedule/MyRequestCollection.java
+/home/lisheng/work/workspace/javaspace/mySpider/src/main/java/com/muyundefeng/spider/constant/SPIDER_CONSTANT.java
+/home/lisheng/work/workspace/javaspace/mySpider/src/main/java/com.muyundefeng.spider.schedule/Woker.java
+/home/lisheng/work/workspace/javaspace/mySpider/src/main/java/com/muyundefeng/spider/pageprocessor/impl/SinaProcessor.java
+/home/lisheng/work/workspace/javaspace/mySpider/src/main/java/com.muyundefeng.spider.schedule/Spider.java
+/home/lisheng/work/workspace/javaspace/mySpider/src/main/java/com/muyundefeng/spider/pageprocessor/PageProcessor.java
+/home/lisheng/work/workspace/javaspace/mySpider/src/main/java/com.muyundefeng.spider.entity/Request.java
+/home/lisheng/work/workspace/javaspace/mySpider/src/main/java/com/muyundefeng/spider/utils/ChannelsDom.java
+/home/lisheng/work/workspace/javaspace/mySpider/src/main/java/com.muyundefeng.spider.downloader/MyHttpClinetDownloader.java
+/home/lisheng/work/workspace/javaspace/mySpider/src/main/java/com.muyundefeng.spider.downloader/MyHttpClientPool.java

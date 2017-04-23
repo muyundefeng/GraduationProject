@@ -1,0 +1,8 @@
+<sites>
+    <site id="1">
+        <name>sina</name>
+        <homePage>http://www.qq.com/</homePage>
+        <pageProcessor>com.muyundefeng.spider.pageprocessor.impl.SinaProcessor</pageProcessor>
+        <urlEncoding>utf-8</urlEncoding>
+    </site>
+</sites>
