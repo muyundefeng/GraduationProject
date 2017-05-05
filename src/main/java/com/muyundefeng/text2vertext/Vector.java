@@ -53,8 +53,10 @@ public class Vector implements WritableComparable<Vector> {
         for (String words : totalWords) {
             int index = thisUrlWordsList.indexOf(words);
             if (index != -1) {
-                System.out.println(Math.log((double) (urlNumbers / map.get(words))));
-                vertex.add(Math.log((double) (urlNumbers / map.get(words))));
+                System.out.println((double) (map.get(words)*(1/(index+1)))+"================");
+//                vertex.add(Math.log((double) (urlNumbers / map.get(words)))*(1/(index+1)));
+                vertex.add((double) (map.get(words)*(1/(index+1))));
+
             } else {
                 vertex.add((double) 0);
             }

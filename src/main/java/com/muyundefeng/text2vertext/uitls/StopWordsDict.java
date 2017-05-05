@@ -21,14 +21,21 @@ public class StopWordsDict {
 
     public static final String HTM = "htm";
 
+    public static final String SHTML = "shtml";
+
     public static final String LINE = "-";
 
-    public static final String HOST_NAME = "qq.com";
+    public static final String HOST_NAME = "sohu.com";
+
+    public static final String BLANK = "\\s";
 
     public static void main(String[] args) {
-        String str = "http://chuangshi.qq.com/bk/xh/71186487-1.html?g_f=70016";
+        String str = "http://v.qq.com/x/list/variety?isource=1&offset=0";
         str = str.replaceAll(PROTOCAL,"").replaceAll("\\d","").replaceAll(HTML,"").replaceAll(LINE,"");
-        String strs[] = StringUtils.split(str, "/.?=");
+        if(str.contains("?")){
+            str = str.split("\\?")[0];
+        }
+        String strs[] = StringUtils.split(str, "/.");
         for (String str1 : strs) {
             System.out.println(str1);
         }

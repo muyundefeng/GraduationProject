@@ -23,5 +23,12 @@ public class SimilarUtils {
         double cosine = sum / (Math.sqrt(sum1) * Math.sqrt(sum2));
         return cosine;
     }
-    
+    public static double getSimilarBettwenByMulti(List<Double> ver1, List<Double> ver2) {
+        int size = ver1.size();
+        double sum = 0;
+        for (int i = 0; i < size; i++) {
+            sum += ver1.get(i) + ver2.get(i);
+        }
+        return sum;
+    }
 }

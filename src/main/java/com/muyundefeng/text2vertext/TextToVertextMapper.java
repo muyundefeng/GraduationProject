@@ -34,8 +34,6 @@ public class TextToVertextMapper extends Mapper<LongWritable, Text, LongWritable
 
     @Override
     protected void setup(Context context) {
-        System.out.println("call------------------");
-
         //  Path pathes[] = context.getFileClassPaths();
         Path pathes1[] = {new Path("hdfs://localhost:9000/user/hadoop/part-r-00000")};
 
@@ -102,7 +100,7 @@ public class TextToVertextMapper extends Mapper<LongWritable, Text, LongWritable
     @Override
     protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
         String line = value.toString();
-        if (line.equals("http://www.qq.com/"))
+        if (line.equals("http://www.sohu.com/"))
             return;
         String words[] = ProcessUrlUtils.getTermsArrayFromUrl(line);
         context.write(key,new Vector(list, words, value.toString(), count, wordToDoc));

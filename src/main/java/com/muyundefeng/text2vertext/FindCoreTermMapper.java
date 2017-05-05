@@ -62,7 +62,7 @@ public class FindCoreTermMapper {
 //            terms.add(word);
 //        }
 //        org.apache.hadoop.io.IOUtils.closeStream(inputStream);
-        FileInputStream is = new FileInputStream("/home/lisheng/word.txt");
+        FileInputStream is = new FileInputStream("/home/lisheng/words.txt");
         InputStreamReader isr = new InputStreamReader(is);
         BufferedReader in = new BufferedReader(isr);
         String line1 = null;
@@ -84,7 +84,7 @@ public class FindCoreTermMapper {
             logger.info("originalRmCut=" + originalRmCut);
             double newRmCut = calRMCut(clusterMap);
             System.out.println("newRmCut=" + newRmCut);
-            if (Math.abs(originalRmCut - newRmCut) < 5) {
+            if (Math.abs(originalRmCut - newRmCut) > 7 && Math.abs(originalRmCut - newRmCut) <30 ) {
                 logger.info("final clusters is:" + clusters);
                 logger.info("cluster number =" + cluster_number);
                 break;
@@ -209,6 +209,9 @@ public class FindCoreTermMapper {
             //c-ck
             tmp.remove(ck);
             List<Cluster> c_ck = tmp;
+
+//            logger.info("calCulateMolecule=" + calCulateMolecule(ck, c_ck));
+//            logger.info("calCulateDenominator=" + calCulateDenominator(ck));
             sum += Math.log10(calCulateMolecule(ck, c_ck)) / Math.log10(calCulateDenominator(ck));
             tmp.add(ck);//还原tmp链表
         }
@@ -234,7 +237,7 @@ public class FindCoreTermMapper {
                 for (Vector vertext1 : vertexts) {//得到某个非ck聚类中单个文本向量
                     List<Double> anotherVertext = vertext1.getVertext();
 //                    sum += getSimilarBettwenText(ver, anotherVertext);
-                    sum += SimilarUtils.calculateSimilarByCosine(ver, anotherVertext);
+                    sum += SimilarUtils.getSimilarBettwenByMulti(ver, anotherVertext);
 
                 }
             }
@@ -271,11 +274,11 @@ public class FindCoreTermMapper {
             Vector di = vertexts.get(i);
             for (int j = 0; j < size; j++) {
                 Vector dj = vertexts.get(j);
-//                sum += getSimilarBettwenText(di.getVertext(), dj.getVertext());
-                sum += SimilarUtils.calculateSimilarByCosine(di.getVertext(), dj.getVertext());
+                sum += SimilarUtils.getSimilarBettwenByMulti(di.getVertext(), dj.getVertext());
             }
 
         }
+//        logger.info("sum=" + sum);
         return sum / 2;
     }
 

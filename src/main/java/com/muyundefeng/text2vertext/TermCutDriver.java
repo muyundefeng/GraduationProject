@@ -4,7 +4,6 @@ import org.apache.hadoop.conf.Configured;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.NullWritable;
-import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
@@ -23,7 +22,7 @@ public class TermCutDriver extends Configured implements Tool {
 //            ToolRunner.printGenericCommandUsage(System.err);
 //            return -1;
 //        }
-        String input = "/home/lisheng/桌面/output3/part-r-00000";
+        String input = "/home/lisheng/桌面/output7/part-r-00000";
         String output = "/home/lisheng/桌面/output4";
 
         Job job = Job.getInstance(getConf());

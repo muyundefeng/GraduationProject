@@ -10,17 +10,20 @@ import java.util.List;
  */
 public class ProcessUrlUtils {
 
-    public static String[] getTermsArrayFromUrl(String line){
+    public static String[] getTermsArrayFromUrl(String line) {
         line = line.replace(StopWordsDict.HOST_NAME, "");
         line = line.replaceAll(StopWordsDict.TRIPLE_W, "").replaceAll(StopWordsDict.SUFFIX, "")
                 .replaceAll(StopWordsDict.DATE, "").replaceAll(StopWordsDict.PROTOCAL, "")
-                .replaceAll("\\d", "").replaceAll(StopWordsDict.HTML, "").replace(StopWordsDict.HTM,"").replaceAll(StopWordsDict.LINE, "")
-                .replaceAll("&", "").replaceAll("_", "");
+                .replaceAll("\\d", "").replace(StopWordsDict.SHTML,"").replaceAll(StopWordsDict.HTML, "").replace(StopWordsDict.HTM, "").replaceAll(StopWordsDict.LINE, "")
+                .replaceAll("&", "").replaceAll("_", "").replaceAll(StopWordsDict.BLANK,"");
+        if (line.contains("?")) {
+            line = line.split("\\?")[0];
+        }
         String words[] = StringUtils.split(line, StopWordsDict.SEPARATOR);
         return words;
     }
 
-    public static List<String> getTermsListFromUrl(String line){
+    public static List<String> getTermsListFromUrl(String line) {
         return Arrays.asList(getTermsArrayFromUrl(line));
     }
 }
