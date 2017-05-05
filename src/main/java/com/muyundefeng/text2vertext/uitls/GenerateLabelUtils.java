@@ -9,19 +9,26 @@ import java.util.Set;
  */
 public class GenerateLabelUtils {
 
-    public final static int RANGE = (int) Math.pow(10, 7);
+    private Set<String> set = new HashSet<String>();
 
-    public final static Set<String> set = new HashSet<String>();
+    private int bound;
 
-    public static String getLabel() {
-        String label = label();
-        while (set.add(label)) {
-            break;
+    public GenerateLabelUtils(int bound) {
+        // TODO Auto-generated constructor stub
+        this.bound = bound;
+    }
+
+    public String getLabel() {
+        String label = null;
+        Random random = new Random();
+        int ad = random.nextInt(bound);
+        while (true) {
+            if (set.add(ad + "")) {
+                label = ad + "";
+                break;
+            }
         }
         return label;
     }
 
-    public static String label() {
-        return new Random(RANGE).toString();
-    }
 }
